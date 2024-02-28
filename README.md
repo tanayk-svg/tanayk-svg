@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tanayk-svg
 - 👀 I’m interested in javascript,graphQL
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on graphQL migration subgraph
 - 📫 Reach me on twitter @tanaygupta52
 
 <!---
