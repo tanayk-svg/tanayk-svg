@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanayk-svg
 - 👀 I’m interested in javascript,graphQL
 - 🌱 I’m currently learning javascript
-- 📫 Reach me on twitter @tanaygupta52
+- 📫 Reach me on [redacted]
 
 <!---
 tanayk-svg/tanayk-svg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
